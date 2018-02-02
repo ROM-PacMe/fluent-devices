@@ -8,8 +8,6 @@ Before opening a pull request to add your device into our list of official devic
 
 Our files are hosted on [Android File Host](http://androidfilehost.com/), this means you must have a developer account to host the builds of your device.
 
-The folder must be in **hidden mode**, so our [Download portal](https://downloads.aospextended.com/) can manage statistics correctly.
-
 ### 2. Changelog
 For each new version, you need to upload the changelog to this repository in the device specific folder.
 
